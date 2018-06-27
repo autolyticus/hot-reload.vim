@@ -2,7 +2,7 @@ A short and sweet vim plugin that triggers Hot Reload every time you save a dart
 
 To install, use your favourite plugin manager.
 
-I use `vim-plug`:
+I use [vim-plug](https://github.com/junegunn/vim-plug):
 ```vim
 Plug 'reisub0/hot-reload.vim'
 ```
